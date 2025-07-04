@@ -1,0 +1,9 @@
+transformers
+datasets
+accelerate
+peft
+torch
+librosa
+soundfile
+bitsandbytes
+wandb
