@@ -57,6 +57,15 @@ If you're using the default `eustlb/dailytalk-conversations-grouped` dataset, yo
 
 If you're using your own dataset, ensure it's preprocessed into grouped multi-turn conversations with speaker tags (`[S1]`, `[S2]`, etc.) like so:
 
+```text
+[S1] Hello! How are you? [S2] I'm good, thanks! How about you?
+```
+
+However, if you are using a simple dataset with only one turn per conversation, adding only one speaker tag should work too:
+
+```text
+[S1] Hello! How are you?
+```
 
 ### Step 5: Run the training script
 
