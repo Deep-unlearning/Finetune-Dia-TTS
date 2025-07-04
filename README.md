@@ -1,4 +1,4 @@
-# Dia TTS Fine-Tuning on DailyTalk Conversations with Transformers 🤗
+# Dia TTS Fine-Tuning with Transformers 🤗
 
 This project fine-tunes the [nari-labs/Dia-1.6B-0626](https://huggingface.co/nari-labs/Dia-1.6B-0626) text-to-speech model on the [eustlb/dailytalk-conversations-grouped](https://huggingface.co/datasets/eustlb/dailytalk-conversations-grouped) multi-turn conversational dataset using the Hugging Face `transformers` and `datasets` libraries.
 
