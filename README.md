@@ -7,8 +7,8 @@ This project fine-tunes the [nari-labs/Dia-1.6B-0626](https://huggingface.co/nar
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/Deep-unlearning/dia-tts-dailytalk.git
-cd dia-tts-dailytalk
+git clone https://github.com/Deep-unlearning/Finetune-Dia-TTS.git
+cd Finetune-Dia-TTS
 ```
 
 ### Step 2: Set up environment
